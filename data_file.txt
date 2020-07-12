@@ -1,0 +1,4 @@
+"{'name': 'Srijan', 'password': '1234', 'courses': 'a', 'balance': 0}"
+"{'name': 'sam', 'password': '1234', 'courses': 'a', 'balance': 0}"
+"{'name': 'rat', 'password': '1234', 'courses': 'c', 'balance': 0}"
+"{'name': 'Terry', 'password': '1234', 'courses': 'd', 'balance': 0}"
